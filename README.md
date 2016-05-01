@@ -2,6 +2,7 @@
 Linear Multivariable Control Systems, ECE 6390
 
 Computer Projects
+
 CP1: System model reduction using the second Cauer method.
 
 CP2: Implemented algorithm (used in Matlab's place.m function) 
